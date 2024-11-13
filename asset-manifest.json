@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactjs-app/static/css/main.050f4391.css",
+    "main.js": "/reactjs-app/static/js/main.1c32504c.js",
+    "static/js/453.fd0cbffb.chunk.js": "/reactjs-app/static/js/453.fd0cbffb.chunk.js",
+    "static/media/owl-sans-bg.png": "/reactjs-app/static/media/owl-sans-bg.6c553c35cad74223bdb5.png",
+    "static/media/owl.png": "/reactjs-app/static/media/owl.7213f08b683bc5d5eeeb.png",
+    "index.html": "/reactjs-app/index.html",
+    "main.050f4391.css.map": "/reactjs-app/static/css/main.050f4391.css.map",
+    "main.1c32504c.js.map": "/reactjs-app/static/js/main.1c32504c.js.map",
+    "453.fd0cbffb.chunk.js.map": "/reactjs-app/static/js/453.fd0cbffb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.050f4391.css",
+    "static/js/main.1c32504c.js"
+  ]
+}
